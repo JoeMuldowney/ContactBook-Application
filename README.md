@@ -12,13 +12,21 @@ I took full ownership of this assignment, finding it both enjoyable and rewardin
 
 
 # Features
-You can start by adding contacts and their contact information. The application provides an intuitive interface for inputting contact names, phone numbers, and email addresses.
 
-Once you've added your contacts and their details, the application automatically saves them and loads the app. This ensures that your contact information is readily available whenever you use the app.
+ - Contact 
+Effortlessly manage your contacts with our intuitive application that streamlines the process of adding and organizing contact information. The user-friendly interface allows for easy input of contact names, phone numbers, and email addresses.
 
-Search Contacts to quickly find the contacts you need using search functionality.
-Create New Contacts and Contact Info.
-Delete Contacts and Contact Info to easily remove outdated or unnecessary contacts and their associated details.
+ - Save/Load
+   - Enjoy the convenience of automatic saving and loading upon app launch, ensuring instant access to your contact details whenever you need them.
+
+Effortless Input: Quickly add contacts with a simple and intuitive interface.
+Automatic Save and Load: Your contacts are automatically saved, providing seamless access every time you open the app.
+Advanced Functionalities:
+
+Swift Search: Easily find contacts using our efficient search functionality.
+Create and Update: Add new contacts or update contact information effortlessly.
+Delete with Ease: Remove outdated or unnecessary contacts and their details hassle-free.
+Experience a streamlined and efficient way to manage your contacts with our feature-rich application."
 
 # Usage
 
