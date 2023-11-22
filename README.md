@@ -22,11 +22,11 @@ Delete Contacts and Contact Info to easily remove outdated or unnecessary contac
 
 # Usage
 
-- Prerequisite
+ - Prerequisite
     - C++ compiler (e.g., g++, Visual C++)
 
-- To execute in g++: 
-  - g++ -o addressbook addressbook.cpp addressbook.h addressbookmain.cpp addressexceptions.h company.cpp company.h contact.cpp contact.h contactelement.cpp contactelement.h email.cpp email.h person.cpp person.h 
+ - To execute in g++: 
+   - g++ -o addressbook addressbook.cpp addressbook.h addressbookmain.cpp addressexceptions.h company.cpp company.h contact.cpp contact.h contactelement.cpp contactelement.h email.cpp email.h person.cpp person.h 
            phonenumber.cpp phonenumber.h web.cpp web.h 
-  - to compile: ./addressbook
+   - to compile: ./addressbook
 
