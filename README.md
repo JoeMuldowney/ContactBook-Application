@@ -8,7 +8,7 @@ This project is a school assignment that aims to create a versatile contact book
 - [Usage](#usage)
 
 # Overview
-
+I took full ownership of this assignment, finding it both enjoyable and rewarding. Despite facing challenging obstacles, I did my best to navigate skillfully and successfully implemented the code. This marked my first experience working with containers in a fully functional application, and the assignment's fixed criteria added an extra layer of complexity that I embraced.
 
 
 # Features
