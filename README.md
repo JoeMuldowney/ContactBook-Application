@@ -20,8 +20,6 @@ I took full ownership of this assignment, finding it both enjoyable and rewardin
 - Save/Load
   - Automatic Save and Load: Your contacts are automatically saved, providing seamless access every time you open the app.
 
-Effortless Input: Quickly add contacts with a simple and intuitive interface.
-
 - Search
   - Easily find contacts and contact information using our efficient search functionality.
 
