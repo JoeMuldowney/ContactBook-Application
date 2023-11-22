@@ -13,11 +13,11 @@ I took full ownership of this assignment, finding it both enjoyable and rewardin
 
 # Features
 
- - Contact 
-Effortlessly manage your contacts with our intuitive application that streamlines the process of adding and organizing contact information. The user-friendly interface allows for easy input of contact names, phone numbers, and email addresses.
+- Contact 
+  - Effortlessly manage your contacts with our intuitive application that streamlines the process of adding and organizing contact information. The user-friendly interface allows for easy input of contact names, phone numbers, and email addresses.
 
- - Save/Load
-   - Enjoy the convenience of automatic saving and loading upon app launch, ensuring instant access to your contact details whenever you need them.
+- Save/Load
+  - Enjoy the convenience of automatic saving and loading upon app launch, ensuring instant access to your contact details whenever you need them.
 
 Effortless Input: Quickly add contacts with a simple and intuitive interface.
 Automatic Save and Load: Your contacts are automatically saved, providing seamless access every time you open the app.
